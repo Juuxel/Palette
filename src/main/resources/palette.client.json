@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "juuxel.palette.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "RendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

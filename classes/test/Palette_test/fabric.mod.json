@@ -1,0 +1,12 @@
+{
+  "id": "palettetest",
+  "name": "Palette Test",
+  "description": "A library for adding paintings.",
+  "version": "0.1.0",
+  "side": "universal",
+  "initializer": "juuxel.palette.test.PaletteTest",
+  "requires": {
+    "fabric": "*"
+  },
+  "mixins": {}
+}
